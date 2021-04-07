@@ -120,9 +120,7 @@ body {
 }
 
 @media (max-width: 390px) {
-  html {
-    zoom: 75%;
-  }
+  
   div {
     
     position: absolute;
@@ -133,9 +131,7 @@ body {
 }
 
 @media (max-width: 480px) {
-  html {
-    zoom: 75%;
-  }
+  
   div {
     
     position: absolute;
