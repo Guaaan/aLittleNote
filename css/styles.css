@@ -119,15 +119,19 @@ body {
 }
 
 @media (max-width: 390px) {
-  div {
-    
-    margin:0 auto;
+  .card-object {
+    height: auto;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
   }
 }
 
 @media (max-width: 480px) {
-  div {
-    
-    margin:0 auto;
+  .card-object {
+    height: auto;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
   }
 }
