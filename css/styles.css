@@ -160,13 +160,13 @@ body {
 }
 
 @media (max-width: 480px) {
-  html {
+  #html {
     height: 100%;
     margin: auto;
     zoom: 75%;
   }
   #div {
-      top: 50%; /* IMPORTANT */
+      top: 50%; 
       left: 50%; /* IMPORTANT */
       display: block;
       position: absolute;
