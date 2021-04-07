@@ -121,7 +121,6 @@ body {
 
 @media (max-width: 390px) {
   html {
-    height: 100%;
     zoom: 75%;
   }
   div {
