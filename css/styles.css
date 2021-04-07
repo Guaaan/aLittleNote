@@ -1,5 +1,5 @@
 html {
-  height: 100%;
+  
   margin: auto;
   zoom: 83%;
 }
@@ -8,7 +8,7 @@ body {
   -webkit-user-select: none;
   user-select: none;
   background-color: #222226;
-  height: 100%;
+  
   font-family: roboto;
   display: flex;
   flex-direction: column;
@@ -147,7 +147,7 @@ body {
     zoom: 75%;
   }
   #div {
-    width: 100%;
+    
 
     top: 50%;
     left: 50%; /* IMPORTANT */
@@ -161,7 +161,7 @@ body {
 
 @media (max-width: 480px) {
   #html {
-    height: 100%;
+    
     
     zoom: 75%;
   }
