@@ -120,7 +120,7 @@ body {
 
 @media (max-width: 390px) {
   .container {
-    height: auto;
+    height: 80%;
     position: relative
   }
   .card-object {
@@ -135,7 +135,7 @@ body {
 
 @media (max-width: 480px) {
   .container {
-    height: auto;
+    height: 80%;
     position: relative
   }
   .card-object {
