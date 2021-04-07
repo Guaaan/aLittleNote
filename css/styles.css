@@ -7,7 +7,6 @@ body {
   -webkit-user-select: none;
   user-select: none;
   background-color: #222226;
-
   font-family: roboto;
   display: flex;
   flex-direction: column;
