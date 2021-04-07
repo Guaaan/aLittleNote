@@ -119,23 +119,33 @@ body {
 }
 
 @media (max-width: 390px) {
-  .floating {
+  .container {
+    height: 10em;
+    position: relative
   }
   .card-object {
+    margin: 0;
+    background: yellow;
     position: absolute;
     top: 50%;
-    height: 100px;
-    margin-top: 0px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
   }
 }
 
 @media (max-width: 480px) {
-  .floating {
+  .container {
+    height: 10em;
+    position: relative
   }
   .card-object {
+    margin: 0;
+    background: yellow;
     position: absolute;
     top: 50%;
-    height: 100px;
-    margin-top: 0px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
   }
 }
