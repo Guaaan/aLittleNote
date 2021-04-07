@@ -119,21 +119,31 @@ body {
 }
 
 @media (max-width: 390px) {
+  .floating {
+    display: table-cell;
+    width: 450px;
+    height: 450px;
+    vertical-align: middle;
+    text-align: center;
+  }
   .card-object {
-    width: 480px;
+    display: inline-block;
+    width: auto;
     height: auto;
-    margin: 10px auto;
-    padding: 10px;
-    position: relative;
   }
 }
 
 @media (max-width: 480px) {
+  .floating {
+    display: table-cell;
+    width: 450px;
+    height: 450px;
+    vertical-align: middle;
+    text-align: center;
+  }
   .card-object {
-    width: 480px;
+    display: inline-block;
+    width: auto;
     height: auto;
-    margin: 10px auto;
-    padding: 10px;
-    position: relative;
   }
 }
