@@ -120,24 +120,22 @@ body {
 
 @media (max-width: 390px) {
   .floating {
-    
   }
   .card-object {
     position: absolute;
-  top: 50%;
-  height: 100px;
-  margin-top: -50px;
+    top: 50%;
+    height: 100px;
+    margin-top: 0px;
   }
 }
 
 @media (max-width: 480px) {
   .floating {
-    
   }
   .card-object {
     position: absolute;
-  top: 50%;
-  height: 100px;
-  margin-top: -50px;
+    top: 50%;
+    height: 100px;
+    margin-top: 0px;
   }
 }
