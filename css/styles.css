@@ -143,8 +143,8 @@ body {
 @media (max-width: 390px) {
   html {
     height: 100%;
-    margin: auto;
     
+    zoom: 75%;
   }
   #div {
     width: 100%;
@@ -163,8 +163,8 @@ body {
 @media (max-width: 480px) {
   #html {
     height: 100%;
-    margin: auto;
     
+    zoom: 75%;
   }
   #div {
     width: 100%;
