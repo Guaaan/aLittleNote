@@ -50,14 +50,14 @@ body {
   background-image: url(https://image.ibb.co/iA4Dpb/line.png);
   background-repeat: repeat;
   background-position: 0 -10px;
-  margin: 20px 20px 0 20px;
+  
 }
 
 .card-object footer {
   grid-column: foot;
   text-align: right;
   background-color: white;
-  padding: 5px 20px 20px 0;
+  
   border-radius: 0 0 5px 5px;
 }
 
