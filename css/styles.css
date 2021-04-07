@@ -121,13 +121,13 @@ body {
 @media (max-width: 390px) {
   div {
     position: absolute;
-    
+    margin: auto;
   }
 }
 
 @media (max-width: 480px) {
   div {
     position: absolute;
-    
+    margin: auto;
   }
 }
