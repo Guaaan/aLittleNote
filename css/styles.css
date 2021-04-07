@@ -139,3 +139,11 @@ body {
   right: 20px;
   top: 20px;
 }
+
+@media (max-width:320px){
+  html {
+    height: 100%;
+    margin: auto;
+    zoom: 100%;
+  }
+}
