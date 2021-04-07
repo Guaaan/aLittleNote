@@ -50,14 +50,13 @@ body {
   background-image: url(https://image.ibb.co/iA4Dpb/line.png);
   background-repeat: repeat;
   background-position: 0 -10px;
-  
 }
 
 .card-object footer {
   grid-column: foot;
   text-align: right;
   background-color: white;
-  
+
   border-radius: 0 0 5px 5px;
 }
 
@@ -120,22 +119,27 @@ body {
 }
 
 @media (max-width: 390px) {
+  html {
+    zoom: 100%;
+  }
   div {
     position: absolute;
-margin-left: auto;
-margin-right: auto;
-left: 0;
-right: 0;
-
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
   }
 }
 
 @media (max-width: 480px) {
+  html {
+    zoom: 100%;
+  }
   div {
     position: absolute;
-margin-left: auto;
-margin-right: auto;
-left: 0;
-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
   }
 }
