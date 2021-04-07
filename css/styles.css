@@ -123,25 +123,21 @@ body {
 @media (max-width: 390px) {
   html {
     height: 100%;
-
     zoom: 75%;
   }
-  #div {
-    margin-left: 100%;
-    /* IMPORTANT */
+  div {
+    width: 100%;
     display: block;
     position: absolute;
   }
 }
 
 @media (max-width: 480px) {
-  #html {
+  html {
     zoom: 75%;
   }
-  #div {
+  div {
     width: 100%;
-
-    margin-left: 100%;
     display: block;
     position: absolute;
   }
