@@ -120,30 +120,24 @@ body {
 
 @media (max-width: 390px) {
   .floating {
-    display: table-cell;
-    width: 450px;
-    height: 450px;
-    vertical-align: middle;
-    text-align: center;
+    
   }
   .card-object {
-    display: inline-block;
-    width: auto;
-    height: auto;
+    position: absolute;
+  top: 50%;
+  height: 100px;
+  margin-top: -50px;
   }
 }
 
 @media (max-width: 480px) {
   .floating {
-    display: table-cell;
-    width: 450px;
-    height: 450px;
-    vertical-align: middle;
-    text-align: center;
+    
   }
   .card-object {
-    display: inline-block;
-    width: auto;
-    height: auto;
+    position: absolute;
+  top: 50%;
+  height: 100px;
+  margin-top: -50px;
   }
 }
