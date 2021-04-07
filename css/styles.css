@@ -132,7 +132,7 @@ body {
   }
   #div {
     
-
+    margin-left: 50%;
      /* IMPORTANT */
     display: block;
     position: absolute;
@@ -151,7 +151,7 @@ body {
   #div {
     width: 100%;
 
-    
+    margin-left: 50%;
     display: block;
     position: absolute;
 
